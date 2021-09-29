@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1aaa272b6d36be64baf66a3acf400962
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movingUI: {instanceID: 0}
+  - targetUI: {instanceID: 0}
+  - legalMoveUI: {instanceID: 0}
+  - baseInfo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

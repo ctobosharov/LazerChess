@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672ce6cc9f8f7e04fa0a5688aacdc771, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  size: {x: 8, y: 8}
+  black: {fileID: 7907517805999442090, guid: 1055f971da1690f4fbf96afe8f8c3ee2, type: 3}
+  white: {fileID: 3438551898495548225, guid: f03e9c15be76483448728f74060f4b04, type: 3}
+  playerPieces:
+  - piece: {fileID: 4049559845391757228, guid: 1122ff596cdfd1743b194fc4d4f54954, type: 3}
+    position: {x: 2, y: 1}
+  - piece: {fileID: 4049559845391757228, guid: 1122ff596cdfd1743b194fc4d4f54954, type: 3}
+    position: {x: 3, y: 1}
+  - piece: {fileID: 4049559845391757228, guid: 1122ff596cdfd1743b194fc4d4f54954, type: 3}
+    position: {x: 4, y: 1}
+  - piece: {fileID: 4049559845391757228, guid: 1122ff596cdfd1743b194fc4d4f54954, type: 3}
+    position: {x: 5, y: 1}
+  - piece: {fileID: 2888561351142808386, guid: f85c5a27d8b525b4c99101a9495cfdf4, type: 3}
+    position: {x: 3, y: 0}
+  - piece: {fileID: 8712480554397280083, guid: 45af4af83241f7d49b400343869a721b, type: 3}
+    position: {x: 2, y: 0}
+  - piece: {fileID: 8712480554397280083, guid: 45af4af83241f7d49b400343869a721b, type: 3}
+    position: {x: 5, y: 0}
+  - piece: {fileID: 2888561351142808386, guid: f85c5a27d8b525b4c99101a9495cfdf4, type: 3}
+    position: {x: 4, y: 0}
+  aiPieces:
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 2, y: 5}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 3, y: 5}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 4, y: 5}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 5, y: 5}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 5, y: 5}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 2, y: 4}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 3, y: 4}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 4, y: 4}
+  - piece: {fileID: 3553413896137017152, guid: 076603250a14cea499b476dc884f8082, type: 3}
+    position: {x: 5, y: 4}
+  - piece: {fileID: 2893545351806516106, guid: f235fc71f48e8794695016459de2cbe9, type: 3}
+    position: {x: 3, y: 6}
+  - piece: {fileID: 2893545351806516106, guid: f235fc71f48e8794695016459de2cbe9, type: 3}
+    position: {x: 4, y: 6}
+  - piece: {fileID: 5665831920449622620, guid: 9e2f79e0d2e5b554680ad041e9c290cb, type: 3}
+    position: {x: 3, y: 7}
+  - piece: {fileID: 5665831920449622620, guid: 9e2f79e0d2e5b554680ad041e9c290cb, type: 3}
+    position: {x: 4, y: 7}
